@@ -28,19 +28,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  
 
 # Build settings
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
+show_excerpts: true
+
 # remote_theme: pmarsceill/just-the-docs
 theme: "minima"
 plugins:
   - jekyll-feed
 # just-the-docs config
+
+# search
 search_enabled: true
 heading_level: 2
 previews: 3
 preview_words_before: 5
 preview_words_after: 10
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
