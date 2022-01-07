@@ -6,3 +6,8 @@ categories: new category
 ---
 
 Test!
+
+<!--more-->
+
+
+And more here
