@@ -14,4 +14,3 @@ Some project ideas include:
 * Raspberry Pi Wireless Travel VPN Router
 * Kubernetes Cluster
 * Crypto Token
-
