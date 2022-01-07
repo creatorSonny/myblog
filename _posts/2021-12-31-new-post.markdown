@@ -3,6 +3,7 @@ layout: post
 title: "New post"
 date: 2021-12-31 13:25:05 +0000
 categories: new category
+excerpt_separator: <!--more-->
 ---
 
 Test!
