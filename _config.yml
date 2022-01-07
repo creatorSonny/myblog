@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  
 
-# Build settings
-# excerpt_separator: <!--more-->
+# Excerpt settings
+excerpt_separator: <!--more-->
 show_excerpts: true
 
 # remote_theme: pmarsceill/just-the-docs
