@@ -10,6 +10,6 @@ Blog Author:
 * Former Web Developer
 
 Blog Environment:
-* Host Site: [Github][https://www.github.com]
-* Blog System: [Jekyll Static Site Generator][https://jekyllrb.com/]
-* Theme: [Minima][https://github.com/jekyll/minima]
+* Host Site: [Github](https://www.github.com)
+* Blog System: ([Jekyll Static Site Generator](https://jekyllrb.com)
+* Theme: [Minima](https://github.com/jekyll/minima)
