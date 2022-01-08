@@ -4,6 +4,8 @@ title:  "About Page"
 date:   2021-12-28 13:46:31 -0600
 categories: about
 ---
+## About Page
+
 Blog Purpose:
 * Document tech projects
 * Share knowledge and opinions on various topics of interest.
