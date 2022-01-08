@@ -7,11 +7,12 @@ categories: about
 ## About Page
 
 Blog Purpose:
-* Document tech projects
+* Document tech projects.
 * Share knowledge and opinions on various topics of interest.
 
 Blog Author:
 * Cybersecurity Architect & Engineer
+* Former Information Security Compliance Officer
 * Former Technical College Instructor
 * Former Web Developer
 
