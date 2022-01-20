@@ -4,7 +4,7 @@ title:  "Welcome to my blog"
 date:   2021-12-28 13:46:31 -0600
 categories: IT
 ---
-In the 20+ years in the information technology field I've learned change in this industry is a constant and one must invest the time to learning. Github and Jekyll are popular free tools and using them falls in line with my *learn-by-doing* philosophy.
+In the 20+ years in the information technology field I've learned change in this industry is a constant and one must invest the time to learning. Github and Jekyll are popular free tools.
 
 <!--more-->
 
